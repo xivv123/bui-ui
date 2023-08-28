@@ -9,7 +9,7 @@ importers:
   .:
     devDependencies:
       turbo:
-        specifier: ^1.7.3
+        specifier: ^1.7.4
         version: registry.npmmirror.com/turbo@1.7.4
 
   apps/vue3-admin:

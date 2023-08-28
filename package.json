@@ -5,6 +5,6 @@
   "author": "yanxi",
   "license": "ISC",
   "devDependencies": {
-    "turbo": "^1.7.3"
+    "turbo": "^1.7.4"
   }
 }
