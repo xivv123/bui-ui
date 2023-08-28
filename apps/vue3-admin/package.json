@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "bui-ui": "workspace:^",
+    "esbuild": "^0.19.2",
     "vue": "^3.2.45"
   },
   "devDependencies": {

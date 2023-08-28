@@ -2,7 +2,7 @@
   <button
     ref="_ref"
     :class="[
-      'biu-button',
+      'bui-button',
       `bg-${_color}-500`,
       `hover:bg-${_color}-400`,
       `${roundClass}`,

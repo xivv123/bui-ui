@@ -3,6 +3,7 @@ import vue from '@vitejs/plugin-vue'
 import dts from 'vite-plugin-dts'
 import { presetUno, presetAttributify, presetIcons } from 'unocss'
 import Unocss from 'unocss/vite'
+// 引用 safelist 用于生成css类
 import { safelist } from './config/uno'
 
 export default defineConfig({
